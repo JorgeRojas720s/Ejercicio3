@@ -1,3 +1,2 @@
 ﻿  Tarea3.cpp
-C:\Users\tony rojas\Documents\Visual Studio 2022\GitHub\TareaEjercicio3\Ejercicio3\Tarea3\Tarea3.cpp(71): warning C4717: 'menu': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
   Tarea3.vcxproj -> C:\Users\tony rojas\Documents\Visual Studio 2022\GitHub\TareaEjercicio3\Ejercicio3\Tarea3\x64\Debug\Tarea3.exe
